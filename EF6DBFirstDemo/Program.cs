@@ -11,6 +11,7 @@ namespace EF6DBFirstDemo
     {
         private static void Main(string[] args)
         {
+
             AddUpdateDeleteEntityInConnectedScenario();
             AddUpdateEntityInDisconnectedScenario();
             LinqToEntitiesQueries();
